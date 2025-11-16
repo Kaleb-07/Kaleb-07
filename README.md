@@ -6,6 +6,9 @@
   </a>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white" />
