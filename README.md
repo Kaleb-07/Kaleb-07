@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
 </p>
-# 💫 About Me:
 👋 Hey there, I'm Kaleb<br><br><br>I'm a passionate web & mobile developer who loves creating real-world applications and continuously learning new technologies.<br>🌱 Currently learning and improving larvel, next.js & Android Development<br>💻 Capable of building full-stack websites using MERN<br>🔧 Experienced with both SQL & NoSQL database systems<br>🎯 Goal: Become a professional full-stack or mobile developer<br>📧 Email: kalebmulugeta07@gmail.com<br>🌍 Location: Ethiopia<br>This is my portfolio https://kaleb-mulugeta.vercel.app
 
 
